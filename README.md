@@ -1,2 +1,0 @@
-# Slasher
-souls like rpg
